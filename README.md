@@ -1,1 +1,1 @@
-# paginas-dinamicas
+# paginas-dinamicas com java script
